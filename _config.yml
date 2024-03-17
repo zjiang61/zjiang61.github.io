@@ -19,7 +19,7 @@ mathjax: true
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: Home}
   - {file: "research.md", title: Research}
-  - {file: "research.md", title: Publications}
+  - {file: "publications.md", title: Publications}
   - {file: "zhihao.pdf", title: CV}
 
 
