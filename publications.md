@@ -3,7 +3,8 @@ layout: post
 mathjax: true
 ---
 
-**Publications**
+---
+## Publications
 1. "Topological phonons and electron-phonon interactions in RhSi." Zhihao Jiang, Dipanjan Chaudhuri, Peter Abbamonte, and André Schleife. (manuscript in preparation)
 2. "Unraveling the origin of antiferromagnetic coupling at YIG/permalloy interface." Jiangchao Qian, Yi Li, Zhihao Jiang, Robert Busch, Hsu-Chih Ni, Tzu-Hsiang Lo, Axel Hoffmann, André Schleife, and Jian-Min Zuo.  **arXiv:2402.14553** (2024). (accepted to Physical Review Materials) [link](https://arxiv.org/abs/2402.14553)
 3. "Unique structure type and antiferromagnetic ordering in semiconducting Eu2InSnP3." Mebatsion Gebre, Zhihao Jiang, Zachary Riedel, Emma Pappas, Honghui Zhou, Andre Schleife, and Daniel Shoemaker. **chemrxiv-2024-nkbbj** (2024). (submitted to Chem- istry of Materials) [link](https://chemrxiv.org/engage/chemrxiv/article-details/665b7f8b91aefa6ce18f6048)
