@@ -21,5 +21,7 @@ mathjax: true
 14. "Localized plasmons in topological insulators." Zhihao Jiang, Malte Rösner, Roelof E. Groenewald, and Stephan Haas.  Physical Review B **101**, 045106 (2020). [link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.045106)
 15. "Upconversion luminescence of NaYF<sub>4</sub>:Yb,Er nanocrystals with high uniformity." Yangsen Ye, Zhihao Jiang, Qizheng Wang, Zishu Zhu, Xiao Wang, Zhilei Sui, Rucheng Dai, Zhongping Wang, Zengming Zhang, and Zejun Ding.  Journal of Rare Earths **32**, 802-805 (2014). [link](https://www.sciencedirect.com/science/article/abs/pii/S1002072114601447)
 
+---
+
 
 
