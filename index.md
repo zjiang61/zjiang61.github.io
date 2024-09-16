@@ -17,3 +17,6 @@ My name is Zhihao Jiang, PhD in Physics. My research interest is exploring novel
 2015-08 to 2021-11, University of Southern California, PhD in Physics (condensed matter theory)  
 2021-11 to 2024-08, University of Illinois Urbana-Champaign, Postdoctoral Researcher
 
+**Contact**  
+email: zjiang22@illinois.edu  
+
