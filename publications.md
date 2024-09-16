@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ""
 mathjax: true
 ---
 
 ## Publications
+
 #### "Influence of temperature, doping, and amorphization on the electronic structure and magnetic damping of iron." Zhihao Jiang, Axel Hoffmann, and André Schleife.  arXiv:2401.08076 (2024). (under review) [link](https://arxiv.org/abs/2401.08076)
 #### "Topological phonons and electron-phonon interactions in RhSi." Zhihao Jiang, Dipanjan Chaudhuri, Peter Abbamonte, and André Schleife. (manuscript in preparation) 
 #### "Unraveling the origin of antiferromagnetic coupling at YIG/permalloy interface." Jiangchao Qian, Yi Li, Zhihao Jiang, Robert Busch, Hsu-Chih Ni, Tzu-Hsiang Lo, Axel Hoffmann, André Schleife, and Jian-Min Zuo.  arXiv:2402.14553 (2024). [link](https://arxiv.org/abs/2402.14553)
