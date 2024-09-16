@@ -1,6 +1,5 @@
 ---
 layout: post
-title: "About me"
 mathjax: true
 ---
 
