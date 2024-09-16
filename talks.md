@@ -1,3 +1,9 @@
+---
+layout: post
+mathjax: true
+---
+
+---
 ## Presentations
 
 #### Zhihao Jiang, Dipanjan Chaudhuri, Peter Abbamonte, and André Schleife. “Topological Phonons in RhSi.” APS March Meeting, Minneapolis, Mar 2024.
