@@ -1,6 +1,6 @@
 ---
-layout: page
-title: ""
+layout: post
+title: "About me"
 mathjax: true
 ---
 
