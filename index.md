@@ -18,5 +18,5 @@ My name is Zhihao Jiang, PhD in Physics. My research interest is exploring novel
 + 2021-11 to 2024-08, University of Illinois Urbana-Champaign, Postdoctoral Researcher
 
 **Contact**  
-email: zjiang22@illinois.edu  
+email: <zjiang22@illinois.edu>  
 
