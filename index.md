@@ -13,9 +13,9 @@ Before the postdoc training at UIUC, I obtained my Physics PhD in December 2021 
 My name is Zhihao Jiang, PhD in Physics. My research interest is exploring novel properties of electrons as well as elementary excitations (phonons, magnons, plasmons, etc.) in condensed matter systems, maily focusing on phenomena related to correlation and topology. I use both theoretical (band theory, Green's functions, many-body perturbation theory) methods and computational techniques (empirical tight-binding model, first-principles simulations).
 
 **Education and working experiences**  
-2010-09 to 2014-07, University of Science and Technology of China, BS in Applied Physics  
-2015-08 to 2021-11, University of Southern California, PhD in Physics (condensed matter theory)  
-2021-11 to 2024-08, University of Illinois Urbana-Champaign, Postdoctoral Researcher
++ 2010-09 to 2014-07, University of Science and Technology of China, BS in Applied Physics  
++ 2015-08 to 2021-11, University of Southern California, PhD in Physics (condensed matter theory)  
++ 2021-11 to 2024-08, University of Illinois Urbana-Champaign, Postdoctoral Researcher
 
 **Contact**  
 email: zjiang22@illinois.edu  
